@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'modulilmupengetahuanalamsmp_item_model.dart';class ModulMataPelajaranIpaSmpModel {List<ModulilmupengetahuanalamsmpItemModel> modulilmupengetahuanalamsmpItemList = [ModulilmupengetahuanalamsmpItemModel(title: "1: Sains Dalam Konteks Bencana",description: "Menyajikan materi secara menarik dan informatif untuk membangun pemahaman yang kuat"),ModulilmupengetahuanalamsmpItemModel(title: "2: Biologi Kehidupan Selama Bencana",description: "Menyajikan materi secara menarik dan informatif untuk membangun pemahaman yang kuat"),ModulilmupengetahuanalamsmpItemModel(title: "3: Teknologi Penanggulangan Bencana",description: "Menyajikan materi secara menarik dan informatif untuk membangun pemahaman yang kuat")];
+
+ }

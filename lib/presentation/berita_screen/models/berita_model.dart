@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'newsfeed_item_model.dart';class BeritaModel {List<NewsfeedItemModel> newsfeedItemList = [NewsfeedItemModel(newsTitle: "Gempa bumi M 2,7 Guncang Garut, Kedalaman 6 KM",newsDate: "Senin, 15 Jan 2024 08.30",newsImage:ImageConstant.imgRectangle23),NewsfeedItemModel(newsTitle: "Gempa bumi M 2,7 Guncang Garut, Kedalaman 6 KM",newsDate: "Senin, 15 Jan 2024 08.30",newsImage:ImageConstant.imgRectangle23),NewsfeedItemModel(newsTitle: "Gempa bumi M 2,7 Guncang Garut, Kedalaman 6 KM",newsDate: "Senin, 15 Jan 2024 08.30",newsImage:ImageConstant.imgRectangle23),NewsfeedItemModel(newsTitle: "Gempa bumi M 2,7 Guncang Garut, Kedalaman 6 KM",newsDate: "Senin, 15 Jan 2024 08.30",newsImage:ImageConstant.imgRectangle23)];
+
+ }

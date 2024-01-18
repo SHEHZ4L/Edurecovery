@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'matapelajarangrid_item_model.dart';class MataPelajaranSdModel {List<MatapelajarangridItemModel> matapelajarangridItemList = [MatapelajarangridItemModel(matematikaImage:ImageConstant.imgRectangle27145x145,matematikaText: "Matematika"),MatapelajarangridItemModel(matematikaImage:ImageConstant.imgRectangle28,matematikaText: "Ilmu Pengetahuan Alam"),MatapelajarangridItemModel(matematikaImage:ImageConstant.imgRectangle29145x145,matematikaText: "Ilmu Pengetahuan Sosial"),MatapelajarangridItemModel(matematikaImage:ImageConstant.imgRectangle30,matematikaText: "Akhlak & Budi Pekerti")];
+
+ }
